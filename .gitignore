@@ -1,0 +1,4 @@
+./reactcrud/node_modules/*
+./backend-logic/node_modules/*
+backend-logic/node_modules/
+reactcrud/node_modules/
